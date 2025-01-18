@@ -1,4 +1,5 @@
-![Black Banner](https://via.placeholder.com/1000x250/000000/FFFFFF?text=Welcome+to+My+GitHub+Profile)
+![Dark Mode](https://img.shields.io/badge/Background-Black-000000?style=for-the-badge)
+
 <h2 align="left">👋 Hey there, I'm Dhruv Patel!<br>🚀 Software Engineer | Full-Stack Developer | Cloud Enthusiast</h2>
 
 ###
