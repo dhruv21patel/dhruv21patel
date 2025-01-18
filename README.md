@@ -1,4 +1,3 @@
-![Dark Mode](https://img.shields.io/badge/Background-Black-000000?style=for-the-badge)
 
 <h2 align="left">👋 Hey there, I'm Dhruv Patel!<br>🚀 Software Engineer | Full-Stack Developer | Cloud Enthusiast</h2>
 
@@ -23,8 +22,6 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/dhruv21patel/dhruv21patel/output/snake.svg" alt="Snake animation" />
 
 ###
 
