@@ -1,3 +1,4 @@
+<div align="center" style="background-color:#000000; color:white; padding:20px; border-radius:10px;">
 <h2 align="left">👋 Hey there, I'm Dhruv Patel!<br>🚀 Software Engineer | Full-Stack Developer | Cloud Enthusiast</h2>
 
 ###
@@ -103,3 +104,4 @@
 </div>
 
 ###
+</div>
