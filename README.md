@@ -4,9 +4,6 @@
 ###
 
 <br clear="both">
-
-<img align="right" height="200" src="https://photos.app.goo.gl/59medNNnTFM6kdXd8"  />
-
 ###
 
 <div align="left">
@@ -22,6 +19,9 @@
 ###
 
 <br clear="both">
+
+<img src="https://raw.githubusercontent.com/dhruv21patel/dhruv21patel/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
