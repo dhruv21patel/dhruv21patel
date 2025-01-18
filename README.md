@@ -1,4 +1,4 @@
-<div align="center" style="background-color:#000000; color:white; padding:20px; border-radius:10px;">
+![Black Banner](https://via.placeholder.com/1000x250/000000/FFFFFF?text=Welcome+to+My+GitHub+Profile)
 <h2 align="left">👋 Hey there, I'm Dhruv Patel!<br>🚀 Software Engineer | Full-Stack Developer | Cloud Enthusiast</h2>
 
 ###
@@ -104,4 +104,3 @@
 </div>
 
 ###
-</div>
