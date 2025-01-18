@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">I'm a passionate software engineer and full-stack developer with a keen interest in distributed systems, cloud computing, and DevOps. Currently, I'm pursuing my Master’s in Computer Science at California State University, Long Beach, where I'm exploring advanced concepts in scalable architectures, microservices, and cloud-native development.<br><br>I specialize in building high-performance applications, leveraging technologies like Spring Boot, React.js, Docker, Kubernetes, and AWS. My expertise extends to cloud engineering, where I work on container orchestration, CI/CD pipelines, and system automation.<br><br><br>📫 Let's Connect!<br>🔗 GitHub: github.com/dhruv21patel<br>💼 LinkedIn: linkedin.com/in/dhruv21patel</p>
+<p align="left">I'm a passionate software engineer and full-stack developer with a keen interest in distributed systems, cloud computing, and DevOps. Currently, I'm pursuing my Master’s in Computer Science at California State University, Long Beach, where I'm exploring advanced concepts in scalable architectures, microservices, and cloud-native development.<br><br>I specialize in building high-performance applications, leveraging technologies like Spring Boot, React.js, Docker, Kubernetes, and AWS. My expertise extends to cloud engineering, where I work on container orchestration, CI/CD pipelines, and system automation.<br><br><br>📫 Let's Connect!<br>🔗 GitHub: github.com/dhruv21patel<br>💼 LinkedIn: https://www.linkedin.com/in/dhruv-patel-039b6b24b/<br>👨🏽‍💻 Portfolio: https://dhruvpatel21.com</p>
 
 ###
 
@@ -90,7 +90,15 @@
 
 ###
 
-<p align="left">🔹 [Talkative Application (Updated)] - Implemented reactive programming with Spring Boot microservices, integrating Spring Cloud API Gateway and Discovery Server for seamless scalability.<br><br>🔹 [Scalable Chat Application] - Designed a real-time messaging platform using WebSockets, Redis for caching, and Kubernetes for container orchestration.<br><br>🔹 [AI-Powered Resume Parser] - Developed an NLP-based resume analysis system using Python and AWS Lambda to automate recruitment workflows.<br><br>🔹 [E-Commerce Platform] - Built a multi-vendor e-commerce system with Spring Boot, React.js, and Stripe for payment processing.</p>
+<p align="left">
+
+🔹 **Talkative Application [Scalable Chat Application]** - Implemented reactive programming with **Spring Boot microservices, integrating Spring Cloud API Gateway and Discovery Server** for seamless scalability.Designed a real-time messaging platform using **WebSockets, Redis for caching, and Kubernetes** for container orchestration.<br><br>
+
+🔹 **Nginx Custom DNS & Firewall Configuration** - Engineered a secure **Nginx-based DNS and firewall configuration** to enhance web server security and performance. Implemented **rate limiting, reverse proxying, and access control mechanisms**.<br><br>
+
+🔹 **Django Salon Booking System** - Built a **full-featured salon appointment booking system** using **Django and PostgreSQL**, enabling seamless **customer scheduling, payment integration, GeoLocation and admin management**.<br><br>
+
+🔹 **Parking Management System** - Developed a **smart parking management system** with **automated ticketing, space allocation, and real-time availability tracking** using **Python and OpenCV**.<br><br>
 
 ###
 
