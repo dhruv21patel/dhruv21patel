@@ -87,6 +87,7 @@
 ###
 
 <p align="left">
+🔹 **Agentic Server Fleet Management System** - Currently working on this **Agentic Server Fleet Management System** to Develop something powerful using AI AGENTS that will help fleet mangemant and resrource management effectively on single server.<br><br>
 
 🔹 **Talkative Application [Scalable Chat Application]** - Implemented reactive programming with **Spring Boot microservices, integrating Spring Cloud API Gateway and Discovery Server** for seamless scalability.Designed a real-time messaging platform using **WebSockets, Redis for caching, and Kubernetes** for container orchestration.<br><br>
 
